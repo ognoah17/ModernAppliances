@@ -1,0 +1,25 @@
+189360200;Bosch;174;60;black;2000;2;62;29
+535981394;Tefal;90;700;bronze;320;Third Rack;Qt
+516089502;Hoover;240;1200;silver;250;Finger Print Resistant;Qr
+255131796;Black & Decker;55;1500;white;500;Residential;18
+254565387;Miele;86;1000;grey;800;Commercial;24
+571522655;Philips;228;440;grey;390;Finger Print Resistant;M
+263788832;Hoover;59;600;black;750;Residential;18
+408018499;Bosch;54;500;white;250;Third Rack;Qu
+143826003;Kenwood;0;4700;silver;1500;2;62;32
+231784690;Russell Hobbs;155;175;grey;380;Residential;18
+243074424;Tefal;61;4000;black;760;Residential;18
+297972916;Dyson;104;1400;bronze;530;Commercial;24
+146947171;Black & Decker;112;1800;grey;1800;3;70;31
+302618394;Hoover;159;100;white;99.99;1.1;K
+493374445;Philips;125;1650;silver;510;Clean with Steam;M
+383477937;Miele;201;2350;white;179.9;1.8;K
+119638199;Vax;134;1200;black;2650;4;66;29
+244733872;Bosch;133;700;grey;430;Commercial;24
+587065284;Kenwood;74;1010;silver;430;Clean with Steam;Qu
+240201796;Dyson;81;1050;white;290;Residential;18
+172911121;Philips;144;700;black;3100;3;71;30
+328237584;Miele;90;1200;bronze;250.23;2.1;W
+118963476;Russell Hobbs;146;1150;grey;2360;4;73;32
+333607621;Vax;113;440;silver;123.99;1.6;W
+274807482;Black & Decker;30;1800;black;375;Commercial;24
